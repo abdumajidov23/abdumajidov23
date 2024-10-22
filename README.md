@@ -7,11 +7,11 @@
 
 - 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,  NestJS,  MongoDB, Mongoose,  PostgreSQL,  Sequelize, Prisma,  API /Rest-API, JWT, Authentication and RBAS, Git/Github,  HTML, CSS**
 
-- 📝 I regularly write articles on [http://t.me/USTechBlog](http://t.me/USTechBlog)
+- 📝 I regularly write articles on [http://t.me/USTechBlog](http://t.me/alijon_abdumajidov)
 
 - 💬 Ask me about **JavaScript, NodeJS, Express, NestJs, PostgresSql, MongoDB and others**
 
-- 📫 How to reach me **habibullotoyrilmasov@gmail.com**
+- 📫 How to reach me **alijonabdumajidov09@gmail.com**
 
 <p align="left">
 <h2 align="left">Connect with me:</h2>
@@ -47,4 +47,4 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"  width="50" height="50"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khab1bull0&show_icons=true&locale=en" alt="habibullo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdumajidov23&show_icons=true&locale=en" alt="Alijon" /></p>
