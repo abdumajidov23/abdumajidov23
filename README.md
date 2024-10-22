@@ -7,7 +7,7 @@
 
 - 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,  NestJS,  MongoDB, Mongoose,  PostgreSQL,  Sequelize, Prisma,  API /Rest-API, JWT, Authentication and RBAS, Git/Github,  HTML, CSS**
 
-- 📝 I regularly write articles on [http://t.me/USTechBlog](http://t.me/alijon_abdumajidov)
+- 📝 I regularly write articles on [https://t.me/alijon_abdumajidov](http://t.me/alijon_abdumajidov)
 
 - 💬 Ask me about **JavaScript, NodeJS, Express, NestJs, PostgresSql, MongoDB and others**
 
