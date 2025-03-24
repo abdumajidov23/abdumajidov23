@@ -21,8 +21,8 @@
 <a href="https://instagram.com/ali_abdumajid_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_abdumajid_" height="40" width="40" />
 </a>
-<a href="https://t.me/abdumajidov" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="abdumajidov" height="40" width="40" />
+<a href="https://t.me/alijon_abdumajidov" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="40" width="40" />
 </a>
 </p>
 
