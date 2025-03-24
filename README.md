@@ -15,9 +15,17 @@
 
 <p align="left">
 <h2 align="left">Connect with me:</h2>
-<a href="https://www.linkedin.com/in/alijon-abdumajidov-9418512b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijon_abdumajidov" height="40" width="40" /></a>
-<a href="https://instagram.com/ali_abdumajid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_abdumajid_" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/alijon-abdumajidov-9418512b7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijon_abdumajidov" height="40" width="40" />
+</a>
+<a href="https://instagram.com/ali_abdumajid_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_abdumajid_" height="40" width="40" />
+</a>
+<a href="https://t.me/abdumajidov" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="abdumajidov" height="40" width="40" />
+</a>
 </p>
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left" style="background-color: white;"> 
